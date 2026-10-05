@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FGPE.API/FGPE.API.csproj" />
+  <Project Path="FGPE.Application.Tests/FGPE.Application.Tests.csproj" />
+  <Project Path="FGPE.Application/FGPE.Application.csproj" />
+  <Project Path="FGPE.Domain/FGPE.Domain.csproj" />
+  <Project Path="FGPE.Infrastructure/FGPE.Infrastructure.csproj" />
+</Solution>

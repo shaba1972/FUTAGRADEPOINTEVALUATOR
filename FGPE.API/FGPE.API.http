@@ -1,0 +1,6 @@
+@FGPE.API_HostAddress = http://localhost:5269
+
+GET {{FGPE.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
